@@ -10,7 +10,7 @@ A website designed to explain the **Chain of Thought (CoT) prompt pattern** inte
 - 🔍 Practical **examples and analysis**.  
 - 🎮 **Interactive elements** to help users apply CoT in real-world scenarios.  
 
-You can access the website here: **[Chain of Thought Prompting Website](#)** (Replace `#` with the actual link).  
+You can access the website here: **[Chain of Thought Prompting Website]( https://meet-ai-tutor-vh0ag4t.gamma.site )** .  
 
 🔗 **Visit the site for an in-depth, interactive experience!** 🚀  
 
