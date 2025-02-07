@@ -2,6 +2,19 @@
 Exploring the Chain of Thought (CoT) Prompt Pattern
 
 
+## 🌐 Chain of Thought Prompting Website  
+
+A website designed to explain the **Chain of Thought (CoT) prompt pattern** interactively. The website includes:  
+
+- 📖 An overview of **CoT prompting**.  
+- 🔍 Practical **examples and analysis**.  
+- 🎮 **Interactive elements** to help users apply CoT in real-world scenarios.  
+
+You can access the website here: **[Chain of Thought Prompting Website](#)** (Replace `#` with the actual link).  
+
+🔗 **Visit the site for an in-depth, interactive experience!** 🚀  
+
+
 
 # 🎵 Chain of Thought Songs  
 
